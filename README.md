@@ -1,1 +1,1 @@
-# demo-computerprogram
+# demo-computer-program
